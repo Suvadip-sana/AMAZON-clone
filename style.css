@@ -426,7 +426,7 @@ ul a{
     font-weight: 600;
 }
 
-@media (min-width: 481px) and (max-width: 800px) {
+@media (min-width: 521px) and (max-width: 800px) {
 
     *{
         margin: 0;
@@ -700,7 +700,7 @@ ul a{
     }  
 }
 
-@media (max-width: 480px) {
+@media (max-width: 520px) {
 
     *{
         margin: 0;
