@@ -5,6 +5,10 @@
     font-family: Arial;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 .navbar{
     height: 60px;
     color: white;
